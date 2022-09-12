@@ -1,0 +1,95 @@
+.we {
+    border-left: 2px solid green;
+    height: 220px;
+    margin-left: 8000%;
+}
+
+.button1 {
+    border: none;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    font-size: 11px;
+    opacity: 0.7;
+    width: 23%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+cursor: pointer;
+}
+
+.div {
+    margin-left: 20%;
+    font-size: large;
+}
+
+.div2 {
+    opacity: 0.7;
+}
+
+.div3 {
+    width: 200%;
+}
+
+.div4 {
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
+
+.img {
+    width: 15%;
+    height: 70px;
+}
+
+@font-face {
+    font-family: "Norse";
+    src: url("https//db.onlinewebfonts.com/t/7d460b18433753a097e5bc2bad7c8dd9.eot");
+    src: url("//db.onlinewebfonts.com/t/7d460b18433753a097e5bc2bad7c8dd9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/7d460b18433753a097e5bc2bad7c8dd9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/7d460b18433753a097e5bc2bad7c8dd9.woff") format("woff"), url("//db.onlinewebfonts.com/t/7d460b18433753a097e5bc2bad7c8dd9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/7d460b18433753a097e5bc2bad7c8dd9.svg#Norse") format("svg");
+}
+
+.p {
+    font-family: "Norse";
+    font-weight: bolder;
+
+}
+
+.div5 {
+    text-align: center;
+    padding: 5%;
+    color: black;
+}
+
+.div6 {
+    text-align: center;
+    display: flex;
+    gap: 1%;
+    /* float: right; */
+    margin-left: 35%;
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80%;
+}
+
+a {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+
+    
+}
+
+a:hover {
+    color: aqua;
+}
+
+.a {
+    color: black;
+    text-decoration: none;
+    gap: 2%;
+    display: flex;
+font-weight: 600;
+opacity: 0.7;
+position: fixed;
+margin-left: 52%;
+background-color: white;
+
+}
